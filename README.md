@@ -1,4 +1,4 @@
-# TEM - Real-time Elasticity Analytics (Nokia Flexi NG)
+# Telco Elasticity Manager Analytics
 
 Calculates and retrieves metrics dynamically from several Flexi NG nodes that can be used for decision-making on scaling actions
 
